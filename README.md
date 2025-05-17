@@ -17,7 +17,7 @@ FineFit Atelier is a stylish and responsive web project built using **HTML, CSS,
 This project was created to practice and demonstrate my web development skills and design creativity in the fashion domain.
 
 ## 🚀 Live Site
-[Click here to view the project](https://Anuruthya158.github.io/FineFit-Atelier/)
+[Click here to view the project](https://anuruthya.neocities.org/FineFit%20Atlier/)
 
 ## 👩‍💻 Author
 **Anuruthya**  
